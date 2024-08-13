@@ -6,4 +6,6 @@
 3. <i>Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.</i><br>
 4. <i>Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing 
    commercial applications.</i><br>
-
+<br>
+<br>
+Check out the simulation here: https://www.theforage.com/simulations/quantium/data-analytics-rqkb
