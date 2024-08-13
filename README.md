@@ -8,4 +8,3 @@
    commercial applications.</i><br>
 <br>
 <br>
-Check out the simulation here: https://www.theforage.com/simulations/quantium/data-analytics-rqkb
